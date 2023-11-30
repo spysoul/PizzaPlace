@@ -1,0 +1,12 @@
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/bin/Debug/net7.0/PizzaPlace.Shared.deps.json
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/bin/Debug/net7.0/PizzaPlace.Shared.dll
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/bin/Debug/net7.0/PizzaPlace.Shared.pdb
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.csproj.AssemblyReference.cache
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.AssemblyInfoInputs.cache
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.AssemblyInfo.cs
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.csproj.CoreCompileInputs.cache
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.dll
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/refint/PizzaPlace.Shared.dll
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/PizzaPlace.Shared.pdb
+/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/obj/Debug/net7.0/ref/PizzaPlace.Shared.dll

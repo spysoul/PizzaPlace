@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{7DDB3531-78B8-4A83-B12F-8F715D669E0B}|https">
+  <MonoDevelop.Ide.ItemProperties.PizzaPlace.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PizzaPlace.Client FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PizzaPlace.Server FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

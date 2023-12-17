@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jcnV9fNkKgAwr/dPayFCY1sxBIWASfr2eopGV0w9N8bvui4aML4HWJB5kEnMJJZ86BAM38jzpNi89+sJMxjHcA==",
+  "dgSpecHash": "HwhrU2sONg8aMDfcVUbVirvSM2xV8V5yKBFcAAiu3pldfxrIkQHBVEDxyurG6UrcBrjrYG8QBa1ADb/kDS5nLg==",
   "success": true,
-  "projectFilePath": "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/PizzaPlace.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

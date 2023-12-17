@@ -1266,36 +1266,37 @@
     ]
   },
   "packageFolders": {
-    "/Users/dani/.nuget/packages/": {}
+    "C:\\Users\\Dani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Server/PizzaPlace.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj",
       "projectName": "PizzaPlace.Server",
-      "projectPath": "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Server/PizzaPlace.Server.csproj",
-      "packagesPath": "/Users/dani/.nuget/packages/",
-      "outputPath": "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Server/obj/",
+      "projectPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj",
+      "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dani/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Client/PizzaPlace.Client.csproj": {
-              "projectPath": "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Client/PizzaPlace.Client.csproj"
+            "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj"
             },
-            "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/PizzaPlace.Shared.csproj": {
-              "projectPath": "/Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/PizzaPlace.Shared.csproj"
+            "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj"
             }
           }
         }
@@ -1334,7 +1335,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

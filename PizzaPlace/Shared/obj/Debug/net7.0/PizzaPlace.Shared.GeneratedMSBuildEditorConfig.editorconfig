@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = PizzaPlace.Shared
-build_property.ProjectDir = /Users/dani/Desktop/Blazor/PizzaPlace/PizzaPlace/Shared/
+build_property.ProjectDir = C:\Users\Dani\Documents\Repositorio_Blazor\PizzaPlace\PizzaPlace\Shared\

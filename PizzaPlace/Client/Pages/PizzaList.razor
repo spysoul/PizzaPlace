@@ -1,0 +1,30 @@
+@if (Items is null || !Items.Any())
+{
+    <div>Cargando...</div>
+}
+else
+{
+    <h1>@Title</h1>
+
+    @foreach (var pizza in Items)
+    {
+        <PizzaItem Pizza="@pizza" ButtonClass="@ButtonClass" ButtonTitle="@ButtonTitle" Selected="@Selected" />
+    }
+}
+
+@code {
+    [Parameter]
+    public string Title { get; set; } = default!;
+
+    [Parameter]
+    public IEnumerable<Pizza> Items { get; set; } = default!;
+
+    [Parameter]
+    public string ButtonClass { get; set; } = default!;
+
+    [Parameter]
+    public string ButtonTitle { get; set; } = default!;
+
+    [Parameter]
+    public EventCallback<Pizza> Selected { get; set; } = default!;
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj": {}
+    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj": {
+    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj",
+        "projectUniqueName": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj",
         "projectName": "PizzaPlace.Client",
-        "projectPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj",
-        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Client\\obj\\",
+        "projectPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj",
+        "packagesPath": "C:\\Users\\dgonzalez\\.nuget\\packages\\",
+        "outputPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dgonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj": {
-                "projectPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj"
+              "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj": {
+                "projectPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj"
               }
             }
           }
@@ -68,7 +68,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.11, 7.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -85,17 +85,17 @@
         }
       }
     },
-    "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj": {
+    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj",
+        "projectUniqueName": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj",
         "projectName": "PizzaPlace.Shared",
-        "projectPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj",
-        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Documents\\Repositorio_Blazor\\PizzaPlace\\PizzaPlace\\Shared\\obj\\",
+        "projectPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Shared\\PizzaPlace.Shared.csproj",
+        "packagesPath": "C:\\Users\\dgonzalez\\.nuget\\packages\\",
+        "outputPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dgonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

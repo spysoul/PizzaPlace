@@ -1,0 +1,65 @@
+<hr>
+
+<h1 class="mt-2 mb-2">@Title</h1>
+
+<EditForm Model="@Customer" OnValidSubmit="@ValidSubmit">
+
+    <DataAnnotationsValidator />
+
+    <fieldset>
+
+        @* // Nombre *@
+        <div class="row mb-2">
+            <label for="name" class="col-2">Name:</label>
+            <InputText class="form-control col-6" @bind-Value="@Customer.Name" />
+        </div>
+        <div class="row mb-2">
+            <div class="col-6">
+                <ValidationMessage For="@(() => Customer.Name)" />
+            </div>
+        </div>
+
+        @* // Calle *@
+        <div class="row mb-2">
+            <label for="street" class="col-2">Street:</label>
+            <InputText class="form-control col-6" @bind-Value="@Customer.Street" />
+        </div>
+        <div class="row mb-2">
+            <div class="col-6">
+                <ValidationMessage For="@(() => Customer.Street)" />
+            </div>
+        </div>
+
+        @* // Ciudad *@
+        <div class="row mb-2">
+            <label for="city" class="col-2">City:</label>
+            <InputText class="form-control col-6" @bind-Value="@Customer.City" />
+        </div>
+        <div class="row mb-2">
+            <div class="col-6">
+                <ValidationMessage For="@(() => Customer.City)" />
+            </div>
+        </div>
+
+        @* // Boton Checkout *@
+        <button class="@ButtonClass">@ButtonTitle</button>
+    </fieldset>
+</EditForm>
+
+@code {
+    [Parameter]
+    public string Title { get; set; } = default!;
+
+    [Parameter]
+    public string ButtonTitle { get; set; } = default!;
+
+    [Parameter]
+    public string ButtonClass { get; set; } = default!;
+
+    [Parameter]
+    public Customer Customer { get; set; } = default!;
+
+    [Parameter]
+    public EventCallback ValidSubmit { get; set; } = default!;
+
+}

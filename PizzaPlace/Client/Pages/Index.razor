@@ -15,7 +15,7 @@
 
 <!--Customer entry-->
 <CustomerEntry ButtonClass="mx-auto w-25 btn btn-success"
-    Title="Por favor, introduce tus datos" ButtonTitle="Comprar" Customer="@State.Basket.Customer" ValidSubmit="PlaceOrder" />
+    Title="Por favor, introduce tus datos" ButtonTitle="Comprar" @bind-Customer="@State.Basket.Customer" ValidSubmit="PlaceOrder" />
 <!--End Customer entry-->
 
 @State.ToJson();

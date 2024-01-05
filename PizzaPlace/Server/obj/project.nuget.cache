@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X4McbG22cOh/Ik8f+AxhEARRBQ6T3scDGeSSAyO0Qy93hMjyAP/Il3AOJ0UMXnW3fW2JlSQbpWK3+ybc7/EPQA==",
+  "dgSpecHash": "Bj23XTM0yY17y1WP5zYpf0c0t1udUpT9TkRWBgdC6qv4MuS9pSd2RJ6dTvLXZGEIqNSot8eRNNAezGuPvm8gmQ==",
   "success": true,
-  "projectFilePath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj",
+  "projectFilePath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\server\\PizzaPlace.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dgonzalez\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.14\\microsoft.aspnetcore.authorization.7.0.14.nupkg.sha512",
     "C:\\Users\\dgonzalez\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.14\\microsoft.aspnetcore.components.7.0.14.nupkg.sha512",

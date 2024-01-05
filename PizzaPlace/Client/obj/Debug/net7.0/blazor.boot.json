@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-Cr6slBs\/R2v2t\/vecFDHbQHakbEhar0adYu0YemwiXI=",
       "System.Private.CoreLib.dll": "sha256-dDw5nzGJhW1jOjGfSJcs\/Mi4KQ+DZygXnoK+vJ+jHyk=",
       "PizzaPlace.Shared.dll": "sha256-FPHAD4e8hm18GuoCAxIWfzplneVh3RDK1SBZEZCJw\/I=",
-      "PizzaPlace.Client.dll": "sha256-aE5z4ossa4Byl4svNyu7zCkx0932FbAiJckL6KkPkhA="
+      "PizzaPlace.Client.dll": "sha256-PpWMaD1X+rXmWaHOATC\/dQ6ngSO1s8O0crAr+ika0RI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "PizzaPlace.Shared.pdb": "sha256-yKkPTKfkbYF0Bh4sG7Kom2etr48hqtvyVQM1ElA8EJ4=",
-      "PizzaPlace.Client.pdb": "sha256-WWvQnHHqnK0m+idJX+Mjwxvd2puHabzuUrswxUydAXc="
+      "PizzaPlace.Client.pdb": "sha256-eVKCe\/+Zk71yswdSuAP6wVfSK2X91IZIAaIwLG00kSA="
     },
     "runtime": {
       "dotnet.7.0.11.8i2gdemwok.js": "sha256-RtIVigdAD1mUvR4pxoKyD8kcQgw4INP81v+PVSqkeQY=",

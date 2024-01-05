@@ -6,6 +6,8 @@
 
     <DataAnnotationsValidator />
 
+    <InputWatcher FieldChanged="@FieldChanged" @ref="@inputWatcher" />
+
     <fieldset>
 
         @* // Nombre *@
@@ -42,7 +44,7 @@
         </div>
 
         @* // Boton Checkout *@
-        <button class="@ButtonClass">@ButtonTitle</button>
+        <button class="@ButtonClass" disabled="@isInvalid">@ButtonTitle</button>
     </fieldset>
 </EditForm>
 
@@ -62,4 +64,15 @@
     [Parameter]
     public EventCallback ValidSubmit { get; set; } = default!;
 
+    [Parameter]
+    public EventCallback<Customer> CustomerChanged { get; set; }
+
+    private void FieldChanged(string FieldName)
+    {
+        CustomerChanged.InvokeAsync(Customer);
+        isInvalid = !inputWatcher.Validate();
+    }
+
+    private InputWatcher inputWatcher = default!;
+    bool isInvalid = true;
 }

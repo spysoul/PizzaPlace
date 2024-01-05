@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj": {}
+    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\server\\PizzaPlace.Server.csproj": {}
   },
   "projects": {
     "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Client\\PizzaPlace.Client.csproj": {
@@ -85,14 +85,14 @@
         }
       }
     },
-    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj": {
+    "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\server\\PizzaPlace.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj",
+        "projectUniqueName": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\server\\PizzaPlace.Server.csproj",
         "projectName": "PizzaPlace.Server",
-        "projectPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Server\\PizzaPlace.Server.csproj",
+        "projectPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\server\\PizzaPlace.Server.csproj",
         "packagesPath": "C:\\Users\\dgonzalez\\.nuget\\packages\\",
-        "outputPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\Server\\obj\\",
+        "outputPath": "E:\\RepositorioGit\\PizzaPlace\\PizzaPlace\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
